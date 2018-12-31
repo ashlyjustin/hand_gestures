@@ -1,0 +1,26 @@
+<annotation>
+	<folder>B</folder>
+	<filename>1B.jpg</filename>
+	<path>/media/ashly/Seagate Expansion Drive/Datasets/SIgnLanguage/B/1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>B</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>7</ymin>
+			<xmax>253</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>
